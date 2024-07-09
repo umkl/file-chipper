@@ -7,4 +7,4 @@ remove certain words of multiple files
 - words to remove
 - optional: path
 
-`file-chip "PLAYLIST-NAME\_"`
+`file-chip "PART_TO_REMOVE"`
