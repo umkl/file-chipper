@@ -1,0 +1,10 @@
+{
+	"type": "module",
+	"bin": {
+		"file-chip": "bin/cli.js"
+	},
+	"dependencies": {
+		"fs": "^0.0.1-security",
+		"get-all-files": "^5.0.0"
+	}
+}
